@@ -4,10 +4,7 @@ a
 c
 b
 a
-a
-v
-a
-s
+
+sa
+h
 b
-f
-f
