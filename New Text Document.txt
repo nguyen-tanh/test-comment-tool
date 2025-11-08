@@ -1,0 +1,13 @@
+a
+b
+a
+c
+b
+a
+a
+v
+a
+s
+b
+f
+f
